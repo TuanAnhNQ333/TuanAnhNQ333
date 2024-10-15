@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TuanAnhNQ333)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TuanAnhNQ333&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+everyone;Welcome+to+my+profile)](https://git.io/typing-svg)
 

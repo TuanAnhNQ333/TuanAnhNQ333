@@ -6,7 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72489&center=true&width=435&lines=HUST;AH+code+his+game)](https://git.io/typing-svg)
 
-# snk
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/TuanAnhNQ333/TuanAnhNQ333/main.yml?label=action&style=flat-square)](https://github.com/TuanAnhNQ333/TuanAnhNQ333/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/TuanAnhNQ333/snk.svg?style=flat-square)](https://github.com/TuanAnhNQ333/snk/releases/latest)

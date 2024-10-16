@@ -6,6 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72489&center=true&width=435&lines=HUST;AH+code+his+game)](https://git.io/typing-svg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanAnhNQ333)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 
 TuanAnhNQ333/TuanAnhNQ333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

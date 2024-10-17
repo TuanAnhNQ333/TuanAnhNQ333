@@ -4,7 +4,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=TuanAnhNQ333&theme=halloween&border_radius=12&card_width=600&card_height=300)](https://git.io/streak-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TuanAnhNQ333&repo=ML)](https://github.com/github-readme-stats)
 
 
 

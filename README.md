@@ -45,7 +45,13 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=AH%20code%20his%20life;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+<br/>
 
+<!-- GitHub Star link -->
+<p align="center">
+  <a href="https://stars.github.com/profiles/denvercoder1/">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+</p>
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/TuanAnhNQ333/TuanAnhNQ333/main.yml?label=action&style=flat-square)](https://github.com/TuanAnhNQ333/TuanAnhNQ333/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/TuanAnhNQ333/snk.svg?style=flat-square)](https://github.com/TuanAnhNQ333/snk/releases/latest)

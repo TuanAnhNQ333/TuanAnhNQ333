@@ -1,4 +1,11 @@
 <p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="AH_NQ" /></a>
+</p>
+
+
+
+<p align="center">
                  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF1E82&center=%C4%90%C3%9ANG+V%E1%BA%ACY&vCenter=%C4%90%C3%9ANG+V%E1%BA%ACY&repeat=%C4%90%C3%9ANG+V%E1%BA%ACY&random=SAI&width=435&lines=++++++++Hello+everyone+;+Welcome+to+my+profile" alt="Typing SVG" /></a>
 </p>
 

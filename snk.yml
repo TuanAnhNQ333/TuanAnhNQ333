@@ -1,5 +1,7 @@
 name: generate animation
-
+- name: Snake game generator from Github contributions
+  uses: Sutil/snk@v01.00.02
+            
 on:
   # run automatically every 24 hours
   schedule:

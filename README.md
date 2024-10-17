@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72489&center=true&width=435&lines=Hello+everyone;Welcome+to+my+profile)](https://git.io/typing-svg)
 
-![snake animation](https://github.com/<seu TuanAnhNQ333>/<seu TuanAnhNQ333>/blob/output/github-contribution-grid-snake2.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TuanAnhNQ333&theme=halloween&border_radius=12&card_width=600&card_height=300)](https://git.io/streak-stats)
 
@@ -14,12 +13,6 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72489&center=true&width=435&lines=HUST;AH+code+his+game)](https://git.io/typing-svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 

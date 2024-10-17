@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72489&center=true&width=435&lines=Hello+everyone;Welcome+to+my+profile)](https://git.io/typing-svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)api/pin?username=TuanAnhNQ333&repo=github-readme-stats
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanAnhNQ333)](https://github.com/anuraghazra/github-readme-stats)
 
 

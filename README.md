@@ -9,8 +9,6 @@
       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TuanAnhNQ333&theme=halloween&border_radius=15&card_width=650&card_height=250&fire=EB1D51&dates=536FEB&currStreakLabel=EB2443" alt="GitHub Streak" /></a>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TuanAnhNQ333&repo=ML)](https://github.com/github-readme-stats)
-
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanAnhNQ333)](https://github.com/anuraghazra/github-readme-stats)

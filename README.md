@@ -5,12 +5,6 @@
 </p>
 
 
-
-<p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF1E82&center=%C4%90%C3%9ANG+V%E1%BA%ACY&vCenter=%C4%90%C3%9ANG+V%E1%BA%ACY&repeat=%C4%90%C3%9ANG+V%E1%BA%ACY&random=SAI&width=550&lines=+Hello+everyone+;+Welcome+to+my+profile" alt="Typing SVG" /></a>
-</p>
-
 <p align="center">
       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TuanAnhNQ333&theme=halloween&border_radius=15&card_width=650&card_height=250&fire=EB1D51&dates=536FEB&currStreakLabel=EB2443" alt="GitHub Streak" /></a>
 </p>

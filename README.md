@@ -24,7 +24,8 @@
 
 <br/>
 
-<picture>
+<p align="center">
+    <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=TuanAnhNQ333&show_icons=true&theme=gruvbox"
     media="(prefers-color-scheme: dark)"
@@ -35,6 +36,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=TuanAnhNQ333&show_icons=true" />
 </picture>
+</p>
 
 
 

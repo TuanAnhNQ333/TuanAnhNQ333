@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72489&center=true&width=435&lines=Hello+everyone;Welcome+to+my+profile)](https://git.io/typing-svg)
-
+<p align="center">
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=+Hello+everyone;Welcome+to+my+profile+;&center=true&width=380&height=45"></a>
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TuanAnhNQ333&theme=halloween&border_radius=12&card_width=600&card_height=300)](https://git.io/streak-stats)
 

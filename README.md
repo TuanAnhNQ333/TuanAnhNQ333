@@ -21,7 +21,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/TuanAnhNQ333/TuanAnhNQ333/main.yml?label=action&style=flat-square)](https://github.com/TuanAnhNQ333/TuanAnhNQ333/actions/workflows/main.yml)

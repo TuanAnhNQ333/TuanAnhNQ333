@@ -38,9 +38,9 @@ jobs:
     steps:
       - name: generate-snake-game-from-github-contribution-grid
         id: snake-gif
-        uses: Platane/snk@master
+        uses: TuanAnhNQ333/snk@master
         with:
-          github_user_name: platane
+          github_user_name: TuanAnhNQ333
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
@@ -104,7 +104,7 @@ jobs:
         with:
           push: ${{ github.ref == 'refs/heads/master' }}
           tags: |
-            platane/snk:latest
-            platane/snk:${{ github.sha }}
+            TuanAnhNQ333/snk:latest
+            TuanAnhNQ333/snk:${{ github.sha }}
           file: packages/action/Dockerfile
           context: packages/action

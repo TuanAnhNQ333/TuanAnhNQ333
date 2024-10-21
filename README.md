@@ -9,6 +9,15 @@
       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TuanAnhNQ333&theme=halloween&border_radius=15&card_width=650&card_height=250&fire=EB1D51&dates=536FEB&currStreakLabel=EB2443" alt="GitHub Streak" /></a>
 </p>
 
+<div align="Center">
+	<table>
+		<td><a href="[https://www.facebook.com/profile.php?id=100017265070641](https://www.facebook.com/ten.aki.399?locale=vi_VN)" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" width="50" height="50" alt="Facebook" tittle="Facebook" ></a></td>
+		<td><a href="[https://www.instagram.com/c_e_g3112/](https://www.instagram.com/tuan_anh_33/)" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" width="50" height="50" alt="Instagram" tittle="Instagram" ></a></td>
+		<td><a href="[https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-%C4%91%E1%BB%97-a12937255/](https://www.linkedin.com/in/anh-nqt/)" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="50" height="50" alt="LinkedLn" tittle="LinkedLn" ></a></td>
+	</table>
+</div>
+
+
 <br/>
 
 <!-- Social badges section -->

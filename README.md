@@ -9,9 +9,7 @@
 	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TuanAnhNQ333&theme=horizon&border_radius=10&card_width=750&card_height=250&fire=FF4118&ring=5851EB&background=45%2C422FEB%2CB71A65&stroke=0BF6FF&currStreakLabel=1DEB24" alt="GitHub Streak" /></a>
 </p>
 
-<p align="center">
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TuanAnhNQ333&theme=halloween&border_radius=15&card_width=650&card_height=250&fire=EB1D51&dates=536FEB&currStreakLabel=EB2443" alt="GitHub Streak" /></a>
-</p>
+
 
 <div align="Center">
 	<table>

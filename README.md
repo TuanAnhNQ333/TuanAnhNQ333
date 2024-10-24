@@ -4,6 +4,9 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20everyone;Welcome%20to%20my%20profile;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+<p align="center">
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TuanAnhNQ333&theme=horizon&border_radius=10&card_width=750&card_height=250&fire=FF4118&ring=5851EB&background=45%2C422FEB%2CB71A65&stroke=0BF6FF&currStreakLabel=1DEB24" alt="GitHub Streak" /></a>
+</p>
 
 
 

@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TuanAnhNQ333&theme=horizon&border_radius=10&card_width=750&card_height=250&fire=FF4118&ring=5851EB&background=45%2C422FEB%2CB71A65&stroke=0BF6FF&currStreakLabel=1DEB24" alt="GitHub Streak" /></a>
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TuanAnhNQ333&theme=horizon&border_radius=10&card_width=750&card_height=250&background=45%2C1D25FF%2CFF5B5B&fire=EB5454&ring=00FF34&currStreakLabel=EBEB07&dates=00FFFF" alt="GitHub Streak" /></a>
 </p>
 
 

@@ -5,12 +5,10 @@
 </p>   
         
         
-<p align="center"> 
-	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TuanAnhNQ333&theme=dracula&border_radius=13&card_width=700&card_height=260&background=45%2C0027EB%2CEB7373&stroke=00EB5F&fire=58E5EB&ring=EBE368" alt="GitHub Streak" /></a>
-</p> 
+
  
 
-
+ 
 <div align="Center">
 	<table>
 		<td><a href="https://www.facebook.com/ah.nqt?locale=vi_VN" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" width="50" height="50" alt="Facebook" tittle="Facebook" ></a></td>

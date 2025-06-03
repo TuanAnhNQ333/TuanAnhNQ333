@@ -18,7 +18,6 @@
 	</table>
 </div>
 
-
 <br/>
 
 <!-- Social badges section -->

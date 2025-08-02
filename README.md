@@ -84,9 +84,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
+
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=TuanAnhNQ333&show_icons=true&theme=dracula&bg_color=45,2C22E6D9,F0351FCC&title_color=FFFC00&text_color=ffffff&icon_color=00F9FF&border_color=FFFFFF&border_radius=12"
+    src="https://github-readme-stats.vercel.app/api?username=TuanAnhNQ333&show_icons=true&theme=transparent&bg_color=45,000000,0F2027,2C5364&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&border_color=00FFFF&border_radius=8"
   />
 </p>
 

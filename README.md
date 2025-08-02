@@ -27,19 +27,7 @@
 
 <br/>
 
-<p align="center">
-    <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=TuanAnhNQ333&show_icons=true&theme=gruvbox"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=TuanAnhNQ333&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=TuanAnhNQ333&show_icons=true" />
-</picture>
-</p>
+
 
 
 <p align="center">
@@ -51,7 +39,11 @@
 <br/>
 
 
-
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=TuanAnhNQ333&show_icons=true&theme=dracula&bg_color=45,2C22E6D9,F0351FCC&title_color=FFFC00&text_color=ffffff&icon_color=00F9FF&border_color=FFFFFF&border_radius=12"
+  />
+</p>
 
 
  🛠️ Tech Stack

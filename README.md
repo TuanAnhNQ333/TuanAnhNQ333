@@ -51,13 +51,9 @@
 <br/>
 
 
-<!-- GitHub Star link -->
-<p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
-</p>
 
-<p align="center">
+
+
  🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -124,7 +120,11 @@ You can find me here:
 - 📘 [Facebook](https://www.facebook.com/ah.nqt?locale=vi_VN)
 - 💻 [My GitHub Repositories](https://github.com/TuanAnhNQ333?tab=repositories)
 
-
+<!-- GitHub Star link -->
+<p align="center">
+  <a href="https://stars.github.com/profiles/denvercoder1/">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+</p>
 <!---
 
 TuanAnhNQ333/TuanAnhNQ333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,14 +6,7 @@
   
 
 
-<div align="center">    
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=TuanAnhNQ333&theme=transparent&border_radius=8&card_width=700&card_height=260&background=45,000000,0F2027,2C5364&ring=00FFFF&fire=00FFFF&stroke=00FFFF&currStreakLabel=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA"
-      alt="GitHub Streak" 
-    />
-  </a>
-</div>
+
 
 <br/>
 
